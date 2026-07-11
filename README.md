@@ -2,6 +2,11 @@
 
 Welcome to the DOM_Judge Auto Fetch Bot. This tool is designed to quickly fetch and sync data from an external GitHub repository into your local workspace.
 
+## first push in your downloaded folder
+```
+git push -u origin main
+```
+
 ## Setup Instructions
 
 **1. Provide Your Repository URL**
